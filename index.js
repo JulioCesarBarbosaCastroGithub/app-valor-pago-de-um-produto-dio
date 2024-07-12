@@ -1,6 +1,6 @@
 let precoProduto = 150.00;
 
-let formaDePagamento = "k";
+let formaDePagamento = "Débito";
 
 let quantidadeDeParcelas = 1;
 
