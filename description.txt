@@ -1,0 +1,1 @@
+Aplicação calcula o valor e a condição a ser paga pelo produto com base na forma de pagamento escolhida pelo cliente.
